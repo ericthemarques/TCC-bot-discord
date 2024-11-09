@@ -111,4 +111,4 @@ client.on('messageCreate', message => {
 });
 
 // Login do bot com o token
-client.login('MTI4MjMzNDkwODkyODQ5NTYzNw.G46LE0.gmn4vYmffCvfou6qzW51K5Ztt9meAFQA-K56Pk');
+client.login('ESTÁ NO DOCUMENTO DE TEXTO ENVIADO NA UNIP');
