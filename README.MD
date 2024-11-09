@@ -24,6 +24,7 @@ Estou muito feliz por finalmente estar entregando o resultado a vocês. Agradeç
 
 ### Link para a adesão do BOT
 https://discord.com/oauth2/authorize?client_id=1282334908928495637 
+# token do bot está no arquivo WORD
 
 # ALERTA
 - Adicionar apenas em um servidor
